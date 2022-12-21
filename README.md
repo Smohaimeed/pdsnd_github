@@ -6,7 +6,12 @@ Wed 21 Dec
 Project 3, Github Project
 
 ### Description
-Describe what your project is about and what it does
+This project has 5 swctions:
+1. Set Up Your Repository
+2. Improve Documentation
+3. Additional Changes to Documentation
+4. Refactor Code
+5. Merge Branches
 
 ### Files used
 Include the files used
