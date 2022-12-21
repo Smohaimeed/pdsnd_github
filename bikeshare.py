@@ -150,6 +150,7 @@ def station_stats(df):
     
 def printInfo():
 print("I'm Shahad")
+print("Finance Auditor")
 
     # TO DO: display most commonly used start station
     print('Most Popular Start Station: ', df['Start Station'].mode()[0])
