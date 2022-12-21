@@ -3,7 +3,7 @@
 ### Date created
 Wed 21 Dec
 ### Project Title
-Replace the Project Title
+Project 3, Github Project
 
 ### Description
 Describe what your project is about and what it does
