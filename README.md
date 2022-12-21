@@ -14,7 +14,9 @@ This project has 5 swctions:
 5. Merge Branches
 
 ### Files used
-Include the files used
+1- README file 
+2- bikeshare.py
+3- .gitignore
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
